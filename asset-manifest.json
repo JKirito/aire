@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aire/static/css/main.726d11b3.chunk.css",
+    "main.js": "/aire/static/js/main.29e402a2.chunk.js",
+    "main.js.map": "/aire/static/js/main.29e402a2.chunk.js.map",
+    "runtime-main.js": "/aire/static/js/runtime-main.67629300.js",
+    "runtime-main.js.map": "/aire/static/js/runtime-main.67629300.js.map",
+    "static/js/2.b4c8ef80.chunk.js": "/aire/static/js/2.b4c8ef80.chunk.js",
+    "static/js/2.b4c8ef80.chunk.js.map": "/aire/static/js/2.b4c8ef80.chunk.js.map",
+    "index.html": "/aire/index.html",
+    "precache-manifest.3975b278a0f79ee5b57a050bfa468945.js": "/aire/precache-manifest.3975b278a0f79ee5b57a050bfa468945.js",
+    "service-worker.js": "/aire/service-worker.js",
+    "static/css/main.726d11b3.chunk.css.map": "/aire/static/css/main.726d11b3.chunk.css.map",
+    "static/js/2.b4c8ef80.chunk.js.LICENSE": "/aire/static/js/2.b4c8ef80.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67629300.js",
+    "static/js/2.b4c8ef80.chunk.js",
+    "static/css/main.726d11b3.chunk.css",
+    "static/js/main.29e402a2.chunk.js"
+  ]
+}
